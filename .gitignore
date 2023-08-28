@@ -1,7 +1,4 @@
-*/**/*-backups
+*/**/pcb/**/*-backups
+*/**/pcb/**/gerber
 
-pcb/**/gerber
-
-case/gerber
-case/dxf
-
+*/**/jlcpcb/**/*.csv
